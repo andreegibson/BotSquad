@@ -1,2 +1,5 @@
-auth.json
+# Dependency directories
 node_modules/**
+
+# Configuration Files
+auth.json
