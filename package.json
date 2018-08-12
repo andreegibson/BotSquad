@@ -7,7 +7,7 @@
   },
   "author": "Andree Gibson (Deadly Hippo)",
   "dependencies": {
-    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.0.0",
     "winston": "^3.0.0"
   }
 }
