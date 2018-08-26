@@ -9,6 +9,7 @@
   "dependencies": {
     "discord.js": "^11.4.1",
     "enmap": "^3.1.1",
+    "request": "^2.88.0",
     "winston": "^3.0.0"
   }
 }
